@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-
+10/10/24
 
 # Aim : 
 
